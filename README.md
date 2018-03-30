@@ -23,4 +23,4 @@ Here is the [file](https://goo.gl/jfdoF2) exported from the training results, in
 NOTE: The pre-model I'm using is "[faster_rcnn_resnet101](https://goo.gl/hYJg6z)." 
 
 # 
-![](https://gph.is/2J9zPms)
+![]https://gph.is/2J9zPms
