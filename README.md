@@ -23,4 +23,4 @@ Here is the [file](https://goo.gl/jfdoF2) exported from the training results, in
 NOTE: The pre-model I'm using is "[faster_rcnn_resnet101](https://goo.gl/hYJg6z)." 
 
 # asd
-<iframe src="https://giphy.com/embed/7Eetbp4DMCG7TUkKhv" width="480" height="390" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7Eetbp4DMCG7TUkKhv">via GIPHY</a></p>
+<iframe src="https://media.giphy.com/media/7Eetbp4DMCG7TUkKhv/giphy.gif" width="480" height="390" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7Eetbp4DMCG7TUkKhv">via GIPHY</a></p>
