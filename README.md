@@ -1,7 +1,8 @@
 # object-detection
 
-You can download my custom pre-made labeled ["Arduino Robot Car" & "person" image](https://goo.gl/PcS5Zs) folder
-I use [labelImg]https://github.com/tzutalin/labelImgabel the images, ideally with a program.  
+
+I use [labelImg](https://github.com/tzutalin/labelImg) to label "Arduino Robot Car" & "person" images.  
+You can download my custom pre-made labeled images [here](https://goo.gl/PcS5Zs).
 
 Here is the [file](https://goo.gl/jfdoF2) including checkpoint data, a saved_model directory, and, most importantly, the forzen_inference_graph.pb after   learn my new objects with a pre-trained model.
 
