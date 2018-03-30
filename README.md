@@ -1,10 +1,13 @@
 # My device
 Intel® Core™ i7-7700K CPU @ 4.20GHz × 8 
+
 GeForce GTX 1080/PCIe/SSE2
+
 Ubuntu 16.04 LTS
 
 # Dependencies
 Tensorlow-gpu 1.6.0
+
 OpenCV 3.4.1
 
 # Download Links
