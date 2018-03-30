@@ -23,4 +23,4 @@ Here is the [file](https://goo.gl/jfdoF2) exported from the training results, in
 NOTE: The pre-model I'm using is "[faster_rcnn_resnet101](https://goo.gl/hYJg6z)." 
 
 # asd
-https://giphy.com/gifs/7Eetbp4DMCG7TUkKhv/html5
+[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
