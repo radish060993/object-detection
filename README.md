@@ -14,6 +14,7 @@ OpenCV 3.4.1
 
 I use [labelImg](https://github.com/tzutalin/labelImg) to label "Arduino Robot Car" & "person" images.  
 You can download my custom pre-made labeled images [here](https://goo.gl/PcS5Zs).
+Or you can label [Arduino Robot Car](https://goo.gl/VyjYgx) and [person](https://goo.gl/9mosoh) yourself.
 
 After using transfer learning achieved by a pre-trained model for several hours, my object-detector learned my two new objects (i.e., "Arduino Robot Car" & "person"). 
 
